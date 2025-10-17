@@ -19,13 +19,13 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // Configuration
-const apikey = 'ptlc_JLXpU0OJdCtFybRRFboXMrCYsihDXEJalIRyHDkvvht';
+const apikey = 'ptla_Tte9LvZ07p4TXGEsPOVssO8ANtj2xwZzGFWXc9xLKfm';
 const capikey = 'ptlc_JLXpU0OJdCtFybRRFboXMrCYsihDXEJalIRyHDkvvht';
-const domain = 'ptla_Tte9LvZ07p4TXGEsPOVssO8ANtj2xwZzGFWXc9xLKfm';
+const domain = 'http://kingwwtz.ekiofficial.my.id';
 const nestid = '5';
 const egg = '15';
 const loc = '1';
-const gmailadmin = 'admin@gmail.com'; // Admin email that won't be deleted
+const gmailadmin = 'syah@gmail.com'; // Admin email that won't be deleted
 const telegramBotToken = '7729697812:AAHuYOvJ0b6wAXrYaaSxSKV3wzTmMwM8Vto';
 const adminTelegramId = '8385876381';
 
